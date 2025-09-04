@@ -1,0 +1,112 @@
+.add {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    color: #6d6d6d;
+    font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.add-img-upload {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-img-upload img {
+    width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.add-content {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex-grow: 1;
+}
+
+.add form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.add-product-name, .add-product-description {
+    width: 100%;
+}
+
+.add-product-name input, .add-product-description textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    outline: none;
+    font-size: 14px;
+    transition: border-color 0.2s;
+}
+
+.add-product-name input:focus, .add-product-description textarea:focus {
+    border-color: rgb(239, 133, 41);
+}
+
+.add-category-price {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.add-category-price select, .add-category-price input {
+    max-width: 120px;
+    padding: 10px;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    outline: none;
+    font-size: 14px;
+    transition: border-color 0.2s;
+}
+
+.add-category-price select:focus, .add-category-price input:focus {
+    border-color: rgb(239, 133, 41);
+}
+
+.add-btn {
+    max-width: 120px;
+    border: none;
+    padding: 12px 0;
+    background-color: rgb(239, 133, 41);
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: background 0.2s;
+}
+
+.add-btn:hover {
+    background-color: rgb(200, 100, 30);
+}
+
+@media (max-width: 768px) {
+    .add {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .add-img-upload img {
+        width: 150px;
+    }
+
+    .add-category-price {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .add-btn {
+        width: 100%;
+    }
+}
