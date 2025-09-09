@@ -47,9 +47,23 @@ Other Tools
 
 ---
 
-📸 Screenshots
+📸 Screenshots<br>
 
-(Add images here of your home page, menu, cart, and checkout page)
+
+
+🏠 Home Page
+<img width="1895" height="967" alt="Screenshot 2025-09-09 160114" src="https://github.com/user-attachments/assets/a6df24f5-4609-4884-a5b3-cf1381886641" />
+🔐 Login Page
+<img width="1892" height="969" alt="Screenshot 2025-09-09 151124" src="https://github.com/user-attachments/assets/9564562c-6a15-475f-899a-57e4b54c9d85" />
+🛒 Cart Page
+<img width="1885" height="953" alt="Screenshot 2025-09-09 151210" src="https://github.com/user-attachments/assets/882e0bb6-e988-48ba-be95-ee0b2547dd21" />
+📦 Order Placement Page
+<img width="1901" height="969" alt="Screenshot 2025-09-09 151315" src="https://github.com/user-attachments/assets/c3a7238f-73f2-4de6-a357-d20104938a9e" />
+
+
+
+
+
 
 🚀 Future Improvements
 
