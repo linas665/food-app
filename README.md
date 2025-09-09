@@ -14,24 +14,36 @@ This project demonstrates skills in **full-stack development**, **user authentic
 - 📱 **Modern UI** – Simple and clean design using HTML, CSS, and React  
 
 ---
+👨‍💻 Languages
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> </p>
+
 
 ## 🛠️ Tech Stack
+Frontend
 
-**Frontend**  
-- React.js  
-- HTML5, CSS3, JavaScript  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> </p>
 
-**Backend**  
-- Node.js  
-- Express.js  
+Backend
 
-**Database**  
-- MongoDB (Mongoose ODM)  
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" /> </p>
 
-**Other Tools**  
-- Git & GitHub for version control  
-- Postman for API testing  
-- JWT for authentication  
+Database
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> </p>
+
+Other Tools
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />&nbsp;
+  
 
 ---
 
@@ -49,20 +61,6 @@ This project demonstrates skills in **full-stack development**, **user authentic
 
 ✅ Push Notifications for Order Updates
 
-🤝 Contributing
-
-Contributions are always welcome!
-If you’d like to improve the project:
-
-Fork the repo
-
-Create a feature branch (git checkout -b feature-name)
-
-Commit your changes (git commit -m "Added new feature")
-
-Push to your branch (git push origin feature-name)
-
-Create a Pull Request
 
 👨‍💻 Author
 
