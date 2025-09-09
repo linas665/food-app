@@ -35,4 +35,3 @@ This project demonstrates skills in **full-stack development**, **user authentic
 
 ---
 
-## 📂 Folder Structure
